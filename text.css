@@ -172,7 +172,7 @@ body {
 	transform: translate(-50%, 0);
 }
 
-@media all and (min-width: 1200px){
+@media all and (min-width: 1600px){
 	p {
 		font-size: 40px;
 	}
